@@ -1,1 +1,33 @@
 /* You can add global styles to this file, and also import other style files */
+.middle {
+  color: black;
+  position: absolute;
+  left: 650px;
+  top: 250px;
+  font-size: 60px;
+  font-family: "Courier New";
+}
+
+.emailTop {
+  color: black;
+  position: absolute;
+  left: 10%;
+  top: 50px;
+  font-size: 15px;
+  font-family: "Courier New";
+}
+
+.numberTop {
+  color: black;
+  position: absolute;
+  left: 85%;
+  top: 50px;
+  font-size: 15px;
+  font-family: "Courier New";
+}
+
+.headshot {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
